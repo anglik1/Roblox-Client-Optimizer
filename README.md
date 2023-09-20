@@ -16,7 +16,7 @@ RCO tweaks FFlags to optimize your Roblox client.
 
 As seen in Sharkblox and Rubie's YouTube videos!
 
-The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
+The flags we edit are contained in our [GitHub Repository](https://github.com/Flxne/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
 ## About RCO
 Some things RCO does:
@@ -36,7 +36,7 @@ Some things RCO does:
 ## Installation
 You can use our installer and uninstaller files to install and uninstall the flags, but keep in mind this will not autoupdate, so keep an eye on our Discord server for update announcements so you know when to run the installer again.
 
-Download them [here](https://github.com/L8X/Roblox-Client-Optimizer/releases/tag/Release) by clicking on RCO-Installer.cmd or RCO-Uninstaller.cmd.
+Download them [here](https://github.com/Flxne/Roblox-Client-Optimizer/releases/tag/Release) by clicking on RCO-Installer.cmd or RCO-Uninstaller.cmd.
 
 See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually.
 
@@ -45,4 +45,4 @@ See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on
 Need even more FPS? Check our the RCO Supersonic section below.
 
 ## RCO Supersonic
-RCO Supersonic is our FPS and latency focused configuration file, you can get it [here](https://roblox-client-optimizer.simulhost.com/supersonic/ClientAppSettings.json).
+RCO Supersonic is our FPS and latency focused configuration file, you can get it [here](https://github.com/Flxne/Roblox-Client-Optimizer/blob/main/supersonic/ClientAppSettings.json).
